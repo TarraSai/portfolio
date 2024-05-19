@@ -29,7 +29,7 @@ export default function Into() {
             <div className="home-content">
               <h1>Hi,</h1>
               <h1>
-                I'am <span>Sai Tarra</span>
+                I'am <span>Tarra sai</span>
               </h1>
               <h2>
                 I am
